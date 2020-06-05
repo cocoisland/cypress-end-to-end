@@ -5,8 +5,11 @@
 - [ ] Run the server using `npm start` to start application to be tested. 
 - [ ] In a separate terminal `npm install cypress --save-dev` to install cypress dependencies in package.json
 
-> npx cypress open, to run cypress testing in window, creating cypress folder and cypress.json.
-> npx cypress run --spec cypress/integration/form_test.js //command line test 
+* npx cypress open
+  ... to run cypress testing in window, creating cypress folder and cypress.json.
+  
+* npx cypress run --spec cypress/integration/form_test.js
+  ... command line test 
 
 ***
 
