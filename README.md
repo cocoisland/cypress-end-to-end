@@ -18,15 +18,15 @@
 
 ***
 ### Test file
-> cypress/integration/form_test.js
+*cypress/integration/form_test.js
 
 ***
 
 
 ### Cyprss, mocha, chai
-cypress - end-to-end testing
-mocha - contains the 'describe' and 'it' unit function testing.
-chai - contains the assertion testing.
+* cypress - end-to-end testing
+* mocha - contains the 'describe' and 'it' unit function testing.
+* chai - contains the assertion testing.
 
 ***
 
