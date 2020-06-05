@@ -18,7 +18,6 @@ chai - contains the assertion testing.
 ***
 
 ## Best Practices to write cypress tests
-> Selector	Recommended	Notes
 
 Selector | Recommended | Notes
 --- | --- | ---
