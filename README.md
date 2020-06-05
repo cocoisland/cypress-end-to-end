@@ -1,14 +1,14 @@
 # cypress-end-to-end
 > Cypress guided project starter
 
-- [ ] **In the root of this directory**: Run `npm install` to download dependencies.
-- [ ] Run the server using `npm start` to start application to be tested. 
-- [ ] In a separate terminal `npm install cypress --save-dev` to install cypress dependencies in package.json
+1. **In the root of this directory**: Run `npm install` to download dependencies.
+2. Run the server using `npm start` to start application to be tested. 
+3. In a separate terminal `npm install cypress --save-dev` to install cypress dependencies in package.json
 
-1. npx cypress open
+4a. npx cypress open
 > to run cypress testing in window, creating cypress folder and cypress.json.
   
-2. npx cypress run --spec cypress/integration/form_test.js
+4b. npx cypress run --spec cypress/integration/form_test.js
 > command line to run specific test file.
 
 ***
