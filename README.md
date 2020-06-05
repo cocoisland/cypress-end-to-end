@@ -10,10 +10,10 @@
 1. Run the server using `npm start` to start application to be tested. Cypress needs an application to be running in order to be able to test.
 
 * Cypress automated testing with cypress window or execute specific test file.
-  1. **npx cypress open
+  1. npx cypress open
   > to run cypress testing in window, creating cypress folder and cypress.json.
   
-  2. **npx cypress run --spec cypress/integration/form_test.js
+  2. npx cypress run --spec cypress/integration/form_test.js
   > command line to run specific test file.
 
 ***
